@@ -14,9 +14,9 @@
 
 **I2C**  
 ``pca9515/pca9517 - level shifter/driver``
-
-**OPAMP**
-``tca0372 - dual high power opamp 1.0A``
+  
+**OPAMP**  
+``tca0372 - dual high power opamp 1.0A``  
 
 **Commodore / MOS / CSG**  
 ``65ce02 cpu``  

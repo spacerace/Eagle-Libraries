@@ -34,5 +34,8 @@
 
 **others:**  
 ``RaspberryPi``
+
 ``Traco TEN5 and TEN8 DC-DC-Converters``
+
 ``BTS4141N High Side Switches (not ROHS!)``
+

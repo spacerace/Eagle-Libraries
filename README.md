@@ -25,8 +25,8 @@
 ``AM29F010 - 128k 5V Flash Device in DIP40``  
 ``MD2200 and MD2201 - DiskOnChip2000 in DIP40``  
 
-**MOSFET**
-``SI4946BEY - Dual N Channel Mosfet 6.4A in SO8``
+**MOSFET**  
+``SI4946BEY - Dual N Channel Mosfet 6.4A in SO8``  
 
 **OPAMP**  
 ``tca0372 - dual high power opamp 1.0A``  

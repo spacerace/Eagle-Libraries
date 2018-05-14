@@ -9,18 +9,21 @@
 ``max127 - 8 channel 12bit i2c ADC``  
 ``tlc540 - serial ADC``
 
-**Atmel / MicroChip AVR:**
-``tiny13 - attiny13 in SO8``
-
+**Atmel / MicroChip AVR:**  
+``tiny13 - attiny13 in SO8``  
+  
+**Audio:**  
+``YM2149 - Atari ST soundchip - also found a lot in german gambling machines``  
+  
 **DAC:**  
 ``max520 - 4 channel 8bit i2c DAC``  
 
 **I2C**  
 ``pca9515/pca9517 - level shifter/driver``
 
-**Memory**  
-``AM29F010 - 128k 5V Flash Device in DIP40``
-``MD2200 and MD2201 - DiskOnChip2000 in DIP40``
+**Memory**    
+``AM29F010 - 128k 5V Flash Device in DIP40``  
+``MD2200 and MD2201 - DiskOnChip2000 in DIP40``  
 
 **MOSFET**
 ``SI4946BEY - Dual N Channel Mosfet 6.4A in SO8``
@@ -43,8 +46,8 @@
 ``6581 sid``
 
 **others:**  
-``RaspberryPi``
-``Traco TEN5 and TEN8 DC-DC-Converters``
-``BTS4141N High Side Switches (not ROHS!)``
+``RaspberryPi``  
+``Traco TEN5 and TEN8 DC-DC-Converters``  
+``BTS4141N High Side Switches (not ROHS!)``  
 
 

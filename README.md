@@ -20,6 +20,10 @@
 
 **I2C**  
 ``pca9515/pca9517 - level shifter/driver``
+  
+**LED Drivers**  
+``max7218 - parallel interfaced 8 digit 7 segment driver``  
+  
 
 **Memory**    
 ``AM29F010 - 128k 5V Flash Device in DIP40``  

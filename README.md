@@ -20,7 +20,7 @@
 
 **High Side Switches**  
 ``BTS100   1.5A TO220``  
-``BTS412B2 1.5A TO220-5, DPAK`` 
+``BTS412B2 1.5A TO220-5, DPAK``  
 ``BTS4141N 0.7A SOT223 (not ROHS!)``  
 
 **I2C**  

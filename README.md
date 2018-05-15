@@ -18,6 +18,11 @@
 **DAC:**  
 ``max520 - 4 channel 8bit i2c DAC``  
 
+**High Side Switches**  
+``BTS100   1.5A TO220``  
+``BTS412B2 1.5A TO220-5, DPAK`` 
+``BTS4141N 0.7A SOT223 (not ROHS!)``  
+
 **I2C**  
 ``pca9515/pca9517 - level shifter/driver``
   
@@ -52,6 +57,6 @@
 **others:**  
 ``RaspberryPi``  
 ``Traco TEN5 and TEN8 DC-DC-Converters``  
-``BTS4141N High Side Switches (not ROHS!)``  
+  
 
 

@@ -145,7 +145,7 @@ MD2201</text>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="DISKONCHIP">
+<deviceset name="DOC2000">
 <gates>
 <gate name="G$1" symbol="DOC2000" x="-2.54" y="2.54"/>
 </gates>

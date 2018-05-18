@@ -2,7 +2,6 @@
 ``AT89C51AC3``  
 ``AT89C51ED2``  
 ``AT89C51RE2``  
-``AT89C5132 (not complete yet)``  
 ``DS89C450``  
 
 **ADC**  
@@ -17,7 +16,7 @@
 ``6581 - Commodore 64 soundchip``  
   
 **Bipolar Transistors**  
-``2SC1827 - NPN, 80V, 4A, 30W, TO220``
+``2SC1827 - NPN, 80V, 4A, 30W, TO220``  
 ``BFR91 - High Speed NPN, 20V, 50mA, 300mW, 5GHz, TO50 Plastic``  
 ``BFW92 - High Speed NPN, 15V, 25mA, 300mW, 2.1GHz, TO50 Plastic``
     
@@ -32,7 +31,8 @@
 ``BTS4142N SOT223``  
 ``BSP452 SOT223``  
 ``BSP550 SOT223``  
-(all of BTS4141,BTS4142,BSP452,BSP550 can replace each other)  
+(all of BTS4141,BTS4142,BSP452,BSP550 can replace each other)
+    
   
 **I2C**  
 ``PCA9515/PCA9517 - level shifter/driver``  
@@ -53,7 +53,7 @@
 ``FQP22P10 - P-Ch, TO220 ``  
 ``STP60NF06FP - TO220 ``  
 
-**MOSFET Logic Level**
+**MOSFET Logic Level**  
 ``BSP319 - N-Channel, 3.8A, 50V, 0.07Ohm, SOT223, full open at 2V``  
 ``BUK556 - 30A TO220``  
 ``SI4946BEY - Dual N-Ch, 6.4A, SO8, not called LL but full open at 4.5V``  
